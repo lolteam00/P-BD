@@ -1,0 +1,3 @@
+El nombre del esquema en el que hibernate creará la base de datos es "bbdd_prac2425_hibernate".
+Analizando el fichero "hibernate.cfg.xml", en los parámetros de conexión al SGBD, podemos comprobar el nombre de la base de datos que creará en la propiedad que contiene la URL de la conexión.
+(<property name="connection.url">jdbc:mysql://localhost:3306/bbdd_prac2425_hibernate</property>)
